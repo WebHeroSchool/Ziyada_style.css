@@ -1,0 +1,11 @@
+ h1 {
+  border-top: 2px solid grey;
+  font-family: Impact, Charcoal, sans-serif;
+  font-weight: bold;
+  color: blue;
+  font-weight: 900;
+} 
+
+ *{
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+ }
